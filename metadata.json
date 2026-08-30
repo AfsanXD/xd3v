@@ -1,0 +1,7 @@
+{
+  "name": "xd3v - Fast, Modern Web Browser",
+  "description": "High-performance web browser with clean square UI, session history purge engine, download manager, and customizable security shields.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
